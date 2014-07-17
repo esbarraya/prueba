@@ -1,4 +1,4 @@
 prueba
 ======
 
-esta muy bien
+[b]esta muy bien[/b]
